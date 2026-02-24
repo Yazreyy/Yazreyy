@@ -19,4 +19,23 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
 
+---
+
+## 🚀 Mes Projets de Formation
+
+Voici les projets sur lesquels je travaille actuellement pour monter en compétences :
+
+| Projet | Aperçu | Technos | Lien |
+| :--- | :---: | :--- | :--- |
+| **Mon Portfolio** | 💻 | `HTML` `CSS` `JS` | [Voir le code](https://github.com/Yazreyy/portfolio) |
+| **Site E-commerce** | 🛒 | `PHP` `MySQL` | [En cours...] |
+| **App Météo** | ☁️ | `React` `API` | [En cours...] |
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+![Stats de Yazreyy](https://github-readme-stats.vercel.app/api?username=Yazreyy&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazreyy&layout=compact&theme=radical)
+
 </div>
