@@ -28,8 +28,8 @@ Voici les projets sur lesquels je travaille actuellement pour monter en compéte
 | Projet | Aperçu | Technos | Lien |
 | :--- | :---: | :--- | :--- |
 | **Mon Portfolio** | 💻 | `HTML` `CSS` `JS` | [Voir le code](https://github.com/Yazreyy/portfolio) |
-| **Site E-commerce** | 🛒 | `PHP` `MySQL` | [En cours...] |
-| **App Météo** | ☁️ | `React` `API` | [En cours...] |
+| **Manga-Nation** | 🛒 | `PHP` `MySQL` | [En cours...] |
+| **Projet Soutenance** | ☁️ | `React` `API` `PHP` `MySql` | [En cours...] |
 
 ---
 
