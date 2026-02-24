@@ -1,21 +1,22 @@
-Salut, moi c'est Marlonn 👋
+<div align="center">
 
-Développeur Web en formation
+# 👋 Moi c'est Marlonn
 
-En reconversion dans le développement web, je suis actuellement en formation à la 3W Academy.
+### Étudiant en formation à la 3WA pour devenir développeur Full-Stack
+🔍 À la recherche d'un stage de 2 mois (du [Date] au [Date])
 
-Mon parcours technique m'a appris à travailler en autonomie et à résoudre des problèmes. Aujourd'hui, je mets ces compétences au service du web.
+---
 
-🔭 En recherche de stage - Développeur Web | Mai - Juillet 2025
+### Mes Skills
 
-Mes compétences : 
-Front-end : HTML, CSS, JavaScript, React
-Back-end : PHP, SQL, MongoDB
-Outils : Git, GitHub, Vite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,figma" />
+</p>
 
-Mes projets : 
-ProjetDescriptionTechnologiesMini Projet BlogApplication de blog avec filtre de rechercheReact, ViteSite PhotographePortfolio pour un photographeHTML, CSSSite Real MadridSite vitrine sur le Real MadridHTML, CSS
+---
 
-Me contacter : 
-📧 gillet.marlonn56@icloud.com
-📍 Locminé, Bretagne
+### Me contacter
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
+
+</div>
