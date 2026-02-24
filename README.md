@@ -1,16 +1,21 @@
-## Hi there 👋
+Salut, moi c'est Marlonn 👋
 
-<!--
-**Yazreyy/Yazreyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Web en formation
 
-Here are some ideas to get you started:
+En reconversion dans le développement web, je suis actuellement en formation à la 3W Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon parcours technique m'a appris à travailler en autonomie et à résoudre des problèmes. Aujourd'hui, je mets ces compétences au service du web.
+
+🔭 En recherche de stage - Développeur Web | Mai - Juillet 2025
+
+Mes compétences : 
+Front-end : HTML, CSS, JavaScript, React
+Back-end : PHP, SQL, MongoDB
+Outils : Git, GitHub, Vite
+
+Mes projets : 
+ProjetDescriptionTechnologiesMini Projet BlogApplication de blog avec filtre de rechercheReact, ViteSite PhotographePortfolio pour un photographeHTML, CSSSite Real MadridSite vitrine sur le Real MadridHTML, CSS
+
+Me contacter : 
+📧 gillet.marlonn56@icloud.com
+📍 Locminé, Bretagne
