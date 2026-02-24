@@ -36,6 +36,7 @@ Voici les projets sur lesquels je travaille actuellement pour monter en compéte
 ### 📊 Mes Statistiques GitHub
 
 ![Stats de Yazreyy](https://github-readme-stats.vercel.app/api?username=Yazreyy&show_icons=true&theme=radical)
+
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazreyy&layout=compact&theme=radical)
 
 </div>
