@@ -42,12 +42,8 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yazreyy&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazreyy&layout=compact&theme=dark&hide_border=true)
 
-### 📊 Mes Statistiques GitHub
 
-![Stats de Yazreyy](https://github-readme-stats.vercel.app/api?username=Yazreyy&show_icons=true&theme=radical)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazreyy&layout=compact&theme=radical)
 
 </div>
