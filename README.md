@@ -10,7 +10,7 @@
 ### Mes Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,figma,canvas,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,figma,mongodb" />
 </p>
 
 ---
