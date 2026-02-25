@@ -1,37 +1,44 @@
-<div align="center">
+# 👋 Hey, I'm Marlonn
 
-# 👋 Moi c'est Marlonn
+🎓 Full-Stack Web Developer student at **3W Academy**
 
-### Étudiant en formation à la 3WA pour devenir développeur web Full-Stack
-🔍 À la recherche d'un stage de 2 mois (de Mai à Juillet 2026)
-
----
-
-### Mes Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,figma,mongodb" />
-</p>
+🔍 Looking for a **2-month internship** (May - July 2026)
 
 ---
 
-### Me contacter
+## 🛠️ My Skills
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## 🚀 Training Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|------------|------------|------|
+| Portfolio | 💻 Personal portfolio website | `HTML` `CSS` `JS` | [View code](lien) |
+| Manga-Nation | 🛒 E-commerce manga website | `PHP` `MySQL` | 🔧 In progress |
+| Final Project | ☁️ Full-stack web application | `React` `API` `PHP` `MySQL` | 🔧 In progress |
 
 ---
 
-## 🚀 Mes Projets de Formation
+## 📫 Contact Me
 
-Voici les projets sur lesquels je travaille actuellement pour monter en compétences :
-
-| Projet | Aperçu | Technos | Lien |
-| :--- | :---: | :--- | :--- |
-| **Mon Portfolio** | 💻 | `HTML` `CSS` `JS` | [Voir le code](https://github.com/Yazreyy/portfolio) |
-| **Manga-Nation** | 🛒 | `PHP` `MySQL` | [En cours...] |
-| **Projet Soutenance** | ☁️ | `React` `API` `PHP` `MySql` | [En cours...] |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-lien-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email)
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yazreyy&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO&layout=compact&theme=dark&hide_border=true)
 
 ### 📊 Mes Statistiques GitHub
 
