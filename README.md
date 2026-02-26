@@ -26,7 +26,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
-| Portfolio | 💻 Personal portfolio website | `HTML` `CSS` `JS` | [View code](lien) |
+| Portfolio | 💻 Personal portfolio website | `HTML` `CSS` `JS` | In progress |
 | Manga-Nation | 🛒 E-commerce manga website | `PHP` `MySQL` | 🔧 In progress |
 | Final Project | ☁️ Full-stack web application | `React` `API` `PHP` `MySQL` | 🔧 In progress |
 
