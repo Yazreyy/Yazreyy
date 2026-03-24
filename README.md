@@ -1,12 +1,12 @@
-# 👋 Hey, I'm Marlonn
+#  Hey, I'm Marlonn
 
-🎓 Full-Stack Web Developer student at **3W Academy**
+ Full-Stack Web Developer student at **3W Academy**
 
-🔍 Looking for a **2-month internship** (May 11th - July 24th 2026)
+ Looking for a **2-month internship** (May 11th - July 24th 2026)
 
 ---
 
-## 🛠️ My Skills
+##  My Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -22,13 +22,13 @@
 
 ---
 
-## 🚀 Training Projects
+##  Training Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
-| Portfolio | 💻 Personal portfolio website | `HTML` `CSS` `JS` | In progress |
-| Manga-Nation | 🛒 E-commerce manga website | `PHP` `MySQL` | 🔧 In progress |
-| Final Project | ☁️ Full-stack web application | `React` `API` `PHP` `MySQL` | 🔧 In progress |
+| The League | 💻 Website for fake e-sport teams | `PHP` `MySQL` | Done |
+| Manga-Nation | 🛒 Website for mangas reviews | `PHP` `MySQL` `API` | 🔧 In progress |
+| Spoil-me | ☁️ PHP website for series reviews | `API` `PHP` `MySQL` | 🔧 In progress |
 
 ---
 
