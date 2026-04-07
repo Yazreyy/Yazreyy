@@ -2,7 +2,7 @@
 
  Full-Stack Web Developer student at **3W Academy**
 
- Looking for a **2-month internship** (May 11th - July 24th 2026)
+
 
 ---
 
