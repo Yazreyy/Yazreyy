@@ -26,20 +26,20 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
-| The League | 💻 Website for fake e-sport teams | `PHP` `MySQL` | Done |
-| Manga-Nation | 🛒 Website for mangas reviews | `PHP` `MySQL` `API` | 🔧 In progress |
-| Spoil-me | ☁️ PHP website for series reviews | `API` `PHP` `MySQL` | 🔧 In progress |
+| The League |  Website for fake e-sport teams | `PHP` `MySQL` | Done |
+| Manga-Nation |  Website for mangas reviews | `PHP` `MySQL` `API` | 🔧 In progress |
+| Spoil-me |  PHP website for series reviews | `API` `PHP` `MySQL` | 🔧 In progress |
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonn-gillet-6567633b3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gillet.marlonn56@icloud.com)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yazreyy&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yazreyy&layout=compact&theme=dark&hide_border=true)
